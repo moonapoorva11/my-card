@@ -1,6 +1,5 @@
 import React from 'react'
 import ProductCard from './productcard';
-
 import Burger from '../burger.jpg';
 import Pizza from '../pizza.jpg';
 import Sandwitch from '../sandwitch.jpg'
